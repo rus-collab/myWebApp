@@ -7,6 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 //Fork
+//Changes by rustamshai@yahoo.com
 namespace myWebApp
 {
     public class Program
